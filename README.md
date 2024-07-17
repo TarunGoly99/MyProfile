@@ -4,7 +4,7 @@ This Repo is regarding my profile information  : )
 # Tarun Goud Golyalla
 
 ## About Me
-📊 Aspiring Data Analyst | Master's in Data Science, NJIT | Passionate about turning complex data into actionable insights.
+📊 Aspiring Data Scientist | Master's in Data Science, NJIT | Passionate about turning complex data into actionable insights.
 
 🔍 Currently focused on using data to drive decision-making and innovation. Open to opportunities that allow me to contribute to data-driven strategies.
 
